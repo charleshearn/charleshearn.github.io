@@ -81,15 +81,20 @@ a {
   color: #82C7B5;
 }
 
+#table-section {
+  padding: 3em;
+}
+
 table {
-    border-collapse: collapse;
-    width: 100%;
+  padding: 20px;
+  border-collapse: collapse;
+  width: 100%;
 }
 
 th, td {
-    padding: 8px;
-    text-align: center;
-    border-right: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+  border-right: 1px solid #ddd;
 }
 
 #main > table > tbody > tr > th:last-child {
