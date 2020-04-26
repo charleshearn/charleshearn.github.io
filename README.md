@@ -1,3 +1,3 @@
 # Charles Hearn's personal site
 
-Hosted on Github Pages.
+Hosted on Github Pages
